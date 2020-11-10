@@ -7,7 +7,7 @@ dependencies:
   version: 0.0.3
 - name: fmtok8s-c4p-rest
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.7
 - name: fmtok8s-email-rest
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
